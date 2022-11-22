@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "Lab06/src"
+        "Lab06/src",
+        "Lab07_BanHang/src"
     ]
 }
