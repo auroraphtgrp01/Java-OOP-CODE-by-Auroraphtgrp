@@ -1,0 +1,4 @@
+interface LxepLoai {
+    String getHocLuc();
+}
+

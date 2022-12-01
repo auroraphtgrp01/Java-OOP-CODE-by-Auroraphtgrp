@@ -1,6 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "Lec20/src",
+        "Lec19_Abstract/src",
+        "Lab07_BanHang/src",
         "Lab06/src",
-        "Lab07_BanHang/src"
+        "Lab07_bhang/src"
     ]
 }
